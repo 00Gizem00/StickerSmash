@@ -4,6 +4,7 @@
     "slug": "StickerSmash",
     "version": "1.0.0",
     "orientation": "portrait",
+    "bridgeless": false,
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
